@@ -54,6 +54,11 @@ Here's where I want to have info on ringtails.
 
 We'll also learn about `knitr::include_graphics()` (there are a lot of options for putting images in rmds)
 
+Add a few fun facts:
+-  Can rotate hind feet 180 degrees (so they are really good at climbing)
+-  Not endangered, just very elusive
+-  Closely related to raccoons.
+
 ###
 
 ----------
